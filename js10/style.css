@@ -1,0 +1,18 @@
+
+.box {
+    width: 100px;
+    height: 100px;
+    border: 1px solid rgb(0, 0, 139);
+    background-color: skyblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    margin: 0 auto;
+}
+
+#counter{
+    font-size: 36px;
+    font-weight: 700;
+
+}
