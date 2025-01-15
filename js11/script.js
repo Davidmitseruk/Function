@@ -54,11 +54,3 @@
   //   }, 1000);
 
 // }
-
-
-
-
-const box = document.getElementById('box');
-let growing = true;
-const maxSize = 200;
-const minSize = 100;
