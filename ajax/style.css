@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    margin: 30px;
+
+}
+.js-search-form{
+    margin-bottom: 30px;
+
+}
+input{
+    padding: 8px;
+    font-size: 16px;
+}
+button{
+    padding: 10px 14px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: rgb(63, 105, 91);
+    color: white;
+    border: none;
+}
+.card{
+    border: 2px solid #333;
+    border-radius: 10px;
+    padding: 20px;
+    width: 200px;
+    margin: 20px auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
+}
+.card img{
+    width: 150px;
+}
+.error{
+    color: red;
+}
